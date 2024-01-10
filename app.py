@@ -1,3 +1,4 @@
+# in python default library already have sqlite3
 import sqlite3
 
 connect = sqlite3.connect('data.db')
